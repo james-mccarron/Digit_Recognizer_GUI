@@ -1,5 +1,7 @@
 # Digit_Recognizer_GUI
 Draw a number on the canvas and the ML model will identify it! Hopefully! Seen below are some examples of its accuracy. 
+
+
 ![0](https://user-images.githubusercontent.com/55930162/214744741-1aa6824d-31b3-4f11-a04e-ccd0929ed640.png)
 ![2](https://user-images.githubusercontent.com/55930162/214744805-34fec57e-0ebb-4bda-a65d-5788c7cf3cc3.png)
 ![5](https://user-images.githubusercontent.com/55930162/214744822-de8c53d9-e573-4cdf-8d31-d1961a24b1ae.png)
